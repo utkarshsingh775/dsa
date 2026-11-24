@@ -1,0 +1,8 @@
+*.out
+*.exe
+a.out
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
+*.class
